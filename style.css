@@ -1,0 +1,20 @@
+body{
+    width:300px;
+    height:300px;
+    background-color:rgb(104, 161, 161);
+    display:flex;
+    justify-content:center;
+}
+p{
+    display:inner-flex;
+    margin:auto 10px;
+    font-size:22px;
+    color:rgb(41, 6, 6);
+    border-radius:6px;
+    font-style:italic;
+    text-shadow:5px 5px 4px yellow;
+    font-weight:800;
+    border:2px solid rgb(0, 255, 179);
+    border-style:outset;
+    padding:10px;
+}
